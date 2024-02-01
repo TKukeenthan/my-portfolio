@@ -7,6 +7,9 @@ import {
   AiOutlineTwitter,
   AiFillInstagram,
   AiOutlineFacebook,
+  AiOutlineMail,
+  AiOutlinePhone,
+  AiOutlineWhatsApp,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -94,6 +97,36 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="mailto:someone@example.com"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiOutlineMail />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="tel:+94767625697"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiOutlinePhone />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://api.whatsapp.com/send?phone=94767625697&text=Hi%20Thiyaharasa%20Kukeenthan%2C"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiOutlineWhatsApp />
                 </a>
               </li>
               {/* <li className="social-icons">
