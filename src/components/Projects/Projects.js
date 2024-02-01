@@ -2,8 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
+
 import microfinace from "../../Assets/Projects/micro-finance-cover.jpg";
 import gld from "../../Assets/Projects/gld-cover.png";
 import lankaTimes from "../../Assets/Projects/lanka-time.jpg";
