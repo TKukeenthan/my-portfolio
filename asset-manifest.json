@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.a41ecd5b.css",
-    "main.js": "/my-portfolio/static/js/main.9f0d1dee.js",
+    "main.js": "/my-portfolio/static/js/main.83f82e92.js",
     "static/js/415.4d6acbeb.chunk.js": "/my-portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/nexa-erp.jpg": "/my-portfolio/static/media/nexa-erp.cc552474fd131270d82c.jpg",
@@ -17,12 +17,12 @@
     "static/media/pre.svg": "/my-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/my-portfolio/index.html",
     "main.a41ecd5b.css.map": "/my-portfolio/static/css/main.a41ecd5b.css.map",
-    "main.9f0d1dee.js.map": "/my-portfolio/static/js/main.9f0d1dee.js.map",
+    "main.83f82e92.js.map": "/my-portfolio/static/js/main.83f82e92.js.map",
     "415.4d6acbeb.chunk.js.map": "/my-portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a41ecd5b.css",
-    "static/js/main.9f0d1dee.js"
+    "static/js/main.83f82e92.js"
   ]
 }
