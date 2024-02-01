@@ -39,7 +39,7 @@ function Projects() {
               title="Micro Finance"
               description="Our Microfinance App is a robust and user-friendly platform designed to revolutionize the way microfinance institutions manage their operations and empower individuals with financial inclusion. With a focus on seamless role management and efficient loan management, this app is tailored to meet the diverse needs of microfinance organizations, ensuring a smoother and more accessible financial ecosystem. (On Going)"
              subtitle="Tech:MangoDb,Express.js,ReactJs,NodeJs (MERN Stack)"
-             // ghLink="https://github.com/soumyajit4419/Plant_AI"
+            
               
             //  demoLink="https://plant49-ai.herokuapp.com/"
             />
@@ -51,7 +51,7 @@ function Projects() {
               title="NEXA ERP"
               description="Revolutionize your business operations with the cutting-edge Nexa ERP mobile app, meticulously crafted for seamless efficiency and unparalleled productivity. Experience streamlined workflows and real-time insights at your fingertips, setting a new standard for business management. Available now on the Google Play Store for enhanced accessibility"
              subtitle="Tech: Flutter, Laravel"
-              // ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+             
               demoLink="https://play.google.com/store/apps/details?id=lk.bohar.NEXA_ERP"
             />
           </Col>
@@ -62,7 +62,7 @@ function Projects() {
               isBlog={false}
               title="Lanka Times"
               description="Innovatively conceived and launched the Lanka Time News mobile application, a cutting-edge platform now available on the Google Play Store (Link). Spearheaded the creation of a user-centric interface, ensuring seamless news consumption and real-time updates. Demonstrated expertise in mobile app development and strategic deployment for enhanced accessibility and engagement."
-             // ghLink="https://github.com/soumyajit4419/Editor.io"
+            
               demoLink="https://play.google.com/store/apps/details?id=lk.bohar.LankaTimes"              
             />
           </Col>
