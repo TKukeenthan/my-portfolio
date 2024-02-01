@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.a41ecd5b.css",
+    "main.js": "/my-portfolio/static/js/main.74bb2728.js",
+    "static/js/415.4d6acbeb.chunk.js": "/my-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/my-portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/my-portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/nexa-erp.jpg": "/my-portfolio/static/media/nexa-erp.cc552474fd131270d82c.jpg",
+    "static/media/my-dp.png": "/my-portfolio/static/media/my-dp.23f18ab1b5e108638556.png",
+    "static/media/home-main.svg": "/my-portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/Kukeenthan-cv.pdf": "/my-portfolio/static/media/Kukeenthan-cv.c94f7587ef3109391a50.pdf",
+    "static/media/about.png": "/my-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/lanka-time.jpg": "/my-portfolio/static/media/lanka-time.1f0f36fb739598d3f182.jpg",
+    "static/media/micro-finance-cover.jpg": "/my-portfolio/static/media/micro-finance-cover.272ebe481fd868f8ecec.jpg",
+    "static/media/gld-cover.png": "/my-portfolio/static/media/gld-cover.442946b10050222c8196.png",
+    "static/media/logo.png": "/my-portfolio/static/media/logo.31f5a3ff1fd4c50125db.png",
+    "static/media/home-bg.jpg": "/my-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/my-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/my-portfolio/index.html",
+    "main.a41ecd5b.css.map": "/my-portfolio/static/css/main.a41ecd5b.css.map",
+    "main.74bb2728.js.map": "/my-portfolio/static/js/main.74bb2728.js.map",
+    "415.4d6acbeb.chunk.js.map": "/my-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a41ecd5b.css",
+    "static/js/main.74bb2728.js"
+  ]
+}
